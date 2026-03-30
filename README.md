@@ -89,7 +89,7 @@ digital-literacy-project/
 
 ## 🔗 Important Links
 
-- 📊 **Digital Literacy Quiz (Google Form):** *(Add your Google Form link here)*
+- 📊 **Digital Literacy Quiz (Google Form):** *(https://docs.google.com/forms/d/e/1FAIpQLSeftvCordUiwKjsSi8S7N1aMLXU3xbFsei1nBY-3umro8dcrA/viewform?usp=publish-editor)*
 - 💼 **LinkedIn Profile:** *www.linkedin.com/in/atharv-datar-185817299*
 - 💻 **GitHub Profile:** *https://github.com/atharvdatar19*
 - 🏅 **HackerRank Profile:** *(Add your HackerRank URL here)*
